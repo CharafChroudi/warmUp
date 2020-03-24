@@ -21,6 +21,7 @@ function isArray(arr){
 //2-Write a JavaScript function to get the first n element of an array.
 //ex  first([1,2,3],1)=>[1]
 //    first([1,2,3,4],2)=>[1,2]
+<<<<<<< HEAD
 //I declared a for loop to check each index and push the element of the array into a new one as long as i is less than the n;
 function getarray(arr, n){
 	emptyArr = [];
@@ -29,6 +30,9 @@ function getarray(arr, n){
 	}
 	return emptyArr;
 }
+=======
+
+>>>>>>> 0e47aea7be29872390744ebf393e4da84d716048
 // **************** git status ****************
 // **************** git add fileName.js ****************
 // **************** git status ****************
